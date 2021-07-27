@@ -131,7 +131,7 @@ SELECT COUNT(*) AS COUNT FROM TRANSACTION_DETAILS WHERE SELLER_MM_ID = BUYER_MM_
 ## Exploratory Data Analysis
 In addition to answering the provided business questions, I explored the MooMy dataset using visualizations.
 
-![Transactions Histogram](/images/Trans_Histogram.png)
+![Transactions Histogram](https://github.com/Josh-Wayland/MooMy/blob/main/images/Trans_Histogram.PNG)
 
 
 
